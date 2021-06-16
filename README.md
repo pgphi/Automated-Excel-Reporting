@@ -5,5 +5,4 @@ a PivotTable is created. Then with openpyxl package, excel formulars can be writ
 
 Used packages:
 - string (for creating column alphabet chars A,B,C ...)
-- openpyxl (for writing excel formulars)
-- 
+- openpyxl (for writing excel formulars, barcharts)
